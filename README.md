@@ -1,2 +1,19 @@
-# Connor-Harte-Portfolio
-This is a collection of the work I have completed. 
+# Connor Harte Portfolio
+
+## Skills 
+
+### Cyber Security
+
+### Coding 
+
+### Blender 
+
+## About me 
+
+### Hard Working 
+
+### I love Video Games 
+
+## Past Projects 
+
+### I created a glowing sword in Blender 
